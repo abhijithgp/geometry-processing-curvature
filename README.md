@@ -66,10 +66,7 @@ another point on the curve $\mathbf{q} = {\gamma}(t)$ as $\mathbf{q}$ approaches
 
 ![](images/tangent-as-limit-of-secant.gif)
 
-$
-\mathbf{t}(s) = \lim_{\mathbf{q}\rightarrow \mathbf{p}} \frac{\mathbf{q}-\mathbf{p}}{\|\|\mathbf{q}-\mathbf{p}\|\|} = 
-\lim_{t\rightarrow s} \frac{{\gamma}(t)-{\gamma}(s)}{\|\|{\gamma}(t)-{\gamma}(s)\|\|} = \frac{{\gamma}'(s)}{\|\|{\gamma}'(s)\|\|}.
-$
+$\mathbf{t}(s) = \lim_{\mathbf{q}\rightarrow \mathbf{p}} \frac{\mathbf{q}-\mathbf{p}}{\|\|\mathbf{q}-\mathbf{p}\|\|} = \lim_{t\rightarrow s} \frac{{\gamma}(t)-{\gamma}(s)}{\|\|{\gamma}(t)-{\gamma}(s)\|\|} = \frac{{\gamma}'(s)}{\|\|{\gamma}'(s)\|\|}.$
 
 It always possible, and often convenient, to assume without loss of generality
 that $s$ is an [arc length
