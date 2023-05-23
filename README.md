@@ -102,11 +102,7 @@ curvature ${\kappa}$ is an non-negative scalar with units 1/meters. The radius o
 osculating circle can also be written as a limit of the [circumcircle
 radius](https://en.wikipedia.org/wiki/Circumscribed_circle#Cartesian_coordinates_from_cross-_and_dot-products):
 
-$$
-R(\mathbf{p}) = \lim_{\mathbf{q}_{1},\mathbf{q}_{2}\rightarrow \mathbf{p}} 
-  \frac{\|\| \mathbf{q}_{1}-\mathbf{p}\|\|  \|\| \mathbf{p}-\mathbf{q}_{2}\|\|  \|\| \mathbf{q}_{2}-\mathbf{q}_{1}\|\| }
-  {2\left| (\mathbf{q}_{1}-\mathbf{p}) \quad (\mathbf{p}-\mathbf{q}_{2})\right|}.
-$$
+$$R(\mathbf{p}) = \lim_{\mathbf{q}_{1},\mathbf{q}_{2}\rightarrow \mathbf{p}} \frac{\|\| \mathbf{q}_{1}-\mathbf{p}\|\|  \|\| \mathbf{p}-\mathbf{q}_{2}\|\|  \|\| \mathbf{q}_{2}-\mathbf{q}_{1}\|\| }  {2\left| (\mathbf{q}_{1}-\mathbf{p}) \quad (\mathbf{p}-\mathbf{q}_{2})\right|}$$
 
 
 #### Signed curvature
