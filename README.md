@@ -78,7 +78,7 @@ In an analogous fashion, we can consider the limit of the
 $C(\mathbf{q}\_{1},\mathbf{p},\mathbf{q}\_{2})$ that passes
 through $\mathbf{p}$ and points $\mathbf{q}\_{1}$ and $\mathbf{q}\_{2}$ before and after it on the curve:
 
-$$C(\mathbf{p}) = \lim_{\mathbf{q}_{1},\mathbf{q}_{2}\rightarrow \mathbf{p}} C(\mathbf{q}_{1},\mathbf{p},\mathbf{q}_{2}).$$
+
 
 
 ![](images/osculating-circle.gif)
